@@ -1,0 +1,18 @@
+#one {
+	
+	
+	/*color: rgb(34, 49, 63);*/
+	color: #6797A1;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+body {
+	text-align: center;
+	/*background-color: rgb(200, 247, 197);*/
+	font-family: 'Questrial', sans-serif;
+	background-color: #F2F8EA;
+	}
+figcaption{
+	color: #FABFA1;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
